@@ -1,0 +1,4 @@
+# .gitignore
+
+# 忽略所有附檔名是 .DS_Store 的檔案
+*.DS_Store
